@@ -1,0 +1,16 @@
+# Non_Functional
+
+1 Safety
+-Sistem harus mencatat setiap perubahan status dan kondisi dari setiap permukaan komputer, tablet
+ dan tampilan untuk pemulihan dari kegagalan sistem
+
+2.Human Engginering
+-Elemem apa pun dari sistem akan membutuhkan waktu tidak lebih dari 10 detik utnuk memulai kembali
+-Komputer permukaan tidak boleh mengabaikan menu yang aktif kecuali jika pelanggan memintanya
+
+3 Performance Requirement
+-Server harus mampu mendukung tidak kurang dari 200 konkesi bersamaan dari setiap kombinasi 
+ komputer permukaan tablet dan display
+-Server harus mampu mendukung jumlah komputer permukaan tablet dan tampilan yang sewenang-wenangnya
+ yaitu ia tidak akan memberikan batasan pada berapa banyak perangkat yang ada dalam sistem
+-Server harus mampu mendukung sejumlah pembayaran pelanggan aktif yang sewenang-wenangnya yaitu tidak ada pembayaran yang akan hilang dalam keaddan apa pun
