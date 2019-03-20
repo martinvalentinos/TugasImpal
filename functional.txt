@@ -1,0 +1,18 @@
+# functional
+
+1. General
+-Sebuah server harus menyelenggarakan RMOS dan meenyediakan kemamuan pemprosesan
+ dan penyimpanan data sistem
+-Komputer permukaan harus menyediakan fungsionalitas sistem pelanggan kepada pelanggan
+-Tablet harus menyediakan fungsional sistem pelayan/ pengawas dengan pelayan/ penyedia
+-Semua fungsionalitas sistem harus dapat diakses melalui komputer tablet
+
+2 Customer
+-Pelanggan harus dapat menggunkana menu mereka dengan komputer atau tablet permukaan yang diaktifkan
+-Pelanggan harus dapat membuat pending order kosong melalui menu yang digunakan
+-Seorang pelanggan dapat menvigasi barang-barang yang tersedia di menu mereka
+
+3 Waiter
+-Pelayan harus dapat memasukan ke tablet dengan menggunakan nama pengguna da kata sandi yang di tentukam
+-Seorang pelayan harus bisa keluar dari tablet
+
